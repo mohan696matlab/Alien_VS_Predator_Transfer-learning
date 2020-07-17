@@ -1,5 +1,6 @@
 
 # Alien_VS_Predator_Transfer-learning
+![Alien vs Predator](/event-cover-4763.png)
 
 ## Context
 Bored with cats vs dogs? Let's try some extraterrestrial beings!
