@@ -10,7 +10,7 @@ A Convolutional Neural Network, Alien vs. Predator recognition with transfer lea
 
 
 ## Content
-Alien vs Predator
+[Alien vs Predator data set](https://www.kaggle.com/pmigdal/alien-vs-predator-images)
 
 Alien and Predator images (JPG, various ), for transfer learning. Split into Keras folder structure.
 
